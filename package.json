@@ -1,0 +1,16 @@
+{
+  "name": "queue-test",
+  "version": "1.0.0",
+  "description": "Repositório simples para testar GitHub Merge Queue",
+  "main": "dist/math.js",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.2"
+  }
+}
